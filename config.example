@@ -1,0 +1,12 @@
+# Shopify Store Configuration
+# ============================
+# Copy this file to .env and fill in your values
+
+# Your Shopify store URL (without https://)
+# Example: my-store.myshopify.com
+SHOPIFY_STORE_URL=your-store-name.myshopify.com
+
+# Your Shopify Admin API Access Token
+# Get this from: Shopify Admin → Settings → Apps and sales channels → Develop apps
+SHOPIFY_ACCESS_TOKEN=shpat_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
